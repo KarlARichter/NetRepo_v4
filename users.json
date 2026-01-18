@@ -1,0 +1,12 @@
+{
+  "users": {
+    "admin": {
+      "bcrypt_hash": "$2b$12$yPBvp4CozxI7bXz8zF8zNuC6NKxC3C30Tznzhz3myLR7W/PBu2kvu",
+      "role": "admin"
+    },
+    "user": {
+      "bcrypt_hash": "$2b$12$RJ6klcZe1TknCP.O3gXAFeI8Kwn0fCCzJbADH5rCvwuTzJyZLcCXK",
+      "role": "user"
+    }
+  }
+}
