@@ -68,7 +68,3 @@ Use:
 ## Repo folder
 The server serves files from `./repo/`. Add test files there.
 
-## Notes
-This project is designed for learning and portfolio demonstration. For real production usage,
-you would add stronger secrets management, account lockouts, structured telemetry, and streaming
-file transfers instead of base64-in-JSON for large files.
